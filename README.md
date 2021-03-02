@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple visualizer that demonstrates the working of dijkstra's algorithm.All code that I wrote is located under /src/PathfindingVisualizer and /src/algorithms. The PathfindingVisualizer component is imported and rendered in App.js.
 
 ## Available Scripts
 
